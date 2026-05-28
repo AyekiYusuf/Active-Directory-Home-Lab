@@ -13,4 +13,7 @@ DNS & DHCP Services
 Group Policy Management
 
 ## Screenshots
-![Server Manager]()
+
+![VM interface](Screenshots/VM interface.jpg)
+
+![Server manager]()

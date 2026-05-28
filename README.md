@@ -16,4 +16,4 @@ Group Policy Management
 
 ![VM interface](Screenshots/VM interface.jpg)
 
-![Server manager]()
+![Server manager](Server manager.png)

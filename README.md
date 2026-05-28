@@ -15,6 +15,6 @@ Group Policy Management
 ## Screenshots
 </> Markdown
 
-![VM interface](Screenshots/VM interface.jpg)
+![VM interface](Screenshots/VM_interface.jpg)
 
 ![Server manager](Server manager.png)

@@ -40,6 +40,16 @@ Group Policy Management
 
 ![Configuring of control panel access GPO](Screenshots/Access_to_control_panel.jpg)
 
+## Key Learning Outcomes
+- Gained hands-on experience deploying and managing Active Directory Domain Services (AD DS)
+- Improved understanding of enterprise network infrastructure and centralized administration
+- Learned how to configure and manage DNS and DHCP services in a Windows Server environment
+- Developed practical skills in creating and managing users, groups, and Organizational Units (OUs)
+- Applied Group Policy Objects (GPOs) for centralized system and security management
+- Strengthened troubleshooting skills related to domain connectivity, authentication, and network services
+- Improved virtualization and lab environment setup using Oracle VirtualBox
+- Simulated real-world enterprise IT administration scenarios
+
 
 
 

@@ -5,12 +5,12 @@ Windows Server AD DS ennterprise home lab
 Deployed a Windows Server Active Directory Domain Services (AD DS) lab environment to simulate a real world enterprise network infrastructure. The lab was created to strengthen my experience in system administration, identity management, networking and Windows server administration.
 
 ## Technologies Used
-Oracle VirtualBox (Virtualization Platform)
-Windows Server 2022 (Domain Controller)
-Windows 10/11 (Client Machines)
-Active Directory Domain Services (AD DS)
-DNS & DHCP Services
-Group Policy Management
+- Oracle VirtualBox (Virtualization Platform)
+- Windows Server 2022 (Domain Controller)
+- Windows 10/11 (Client Machines)
+- Active Directory Domain Services (AD DS)
+- DNS & DHCP Services
+- Group Policy Management
 
 ## Screenshots
 
@@ -41,7 +41,7 @@ Group Policy Management
 ![Configuring of control panel access GPO](Screenshots/Access_to_control_panel.jpg)
 
 ## Key Learning Outcomes
-- Gained hands-on experience deploying and managing Active Directory Domain Services (AD DS)
+- Gained hands on experience deploying and managing Active Directory Domain Services (AD DS)
 - Improved understanding of enterprise network infrastructure and centralized administration
 - Learned how to configure and manage DNS and DHCP services in a Windows Server environment
 - Developed practical skills in creating and managing users, groups, and Organizational Units (OUs)

@@ -40,6 +40,10 @@ Deployed a Windows Server Active Directory Domain Services (AD DS) lab environme
 
 ![Configuring of control panel access GPO](Screenshots/Access_to_control_panel.jpg)
 
+![Configured DNS](Screenshots/DNS_manager.png)
+
+![Configured DHCP](Screenshots/DHCP_manager.png)
+
 ## Key Learning Outcomes
 - Gained hands on experience deploying and managing Active Directory Domain Services (AD DS)
 - Improved understanding of enterprise network infrastructure and centralized administration
